@@ -1,0 +1,54 @@
+body{
+    background-color:#133913;
+}
+
+.calc{
+    background-color:#808000;
+    width:400px;
+    padding: 10px 10px;
+    margin: 8% auto auto auto;
+    border-radius:9px;
+    box-shadow: 10px 10px 5px #1a1a00;
+}
+
+.title{
+    text-align:center;
+    font-family:Inconsolata;
+    font-size:160%
+}
+
+.entry{
+    background-color: #CEDBF2;
+    width:350px;
+    /*padding: 20px 10px;*/
+    padding-right:15px;
+    margin-top:7px;
+    text-align:right;
+    height:53px;
+    border-radius:4px;
+    margin-left:15px;
+}
+
+.btn{
+    background-color: #b3b300;
+    width:70px;
+    padding-top:10px;
+    margin-left:5px;
+    margin-top:8px;
+    height:45px;
+    font-size:125%;
+    font-family:Inconsolata;
+}
+
+.buttons{
+    text-align:center;
+}
+
+#equal{
+    width:150px;
+}
+
+#current{
+    font-size:25px;
+    
+}
